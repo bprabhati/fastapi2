@@ -1,4 +1,7 @@
 from pydantic import BaseModel
+"""
+pydantic models validates data
+"""
 
 
 class UserCreate(BaseModel):
