@@ -1,0 +1,5 @@
+/.venv
+/items.db
+__pycache__/
+*.pyc 
+*.pyo
